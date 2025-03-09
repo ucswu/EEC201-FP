@@ -1,0 +1,18 @@
+EEC 201 Final Project siheng wu + zekai yang
+
+Part 1, preprocessing functions and MFCC features extraction
+  Output: filtered waveform graph, STFT Spectrogram, MFCC, Mel-spaced filterbank
+
+Part 2， VQ, lbg algorithm and codebook_training method
+
+Part 3, code book visualization
+  Output: VQ codebook clustering in 2D space
+
+Part 4, Original match
+  Output: Original set matching results
+
+Part 5, Notch filter
+  Output: Matching after notch
+
+Part 6, 24 Data Testing
+  Output: random 10 pick matching results, Zero/Twelve matching results
